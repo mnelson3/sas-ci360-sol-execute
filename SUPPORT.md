@@ -36,4 +36,4 @@ For security-related issues, please follow the reporting process in [SECURITY.md
 ### Commercial Support
 
 For commercial licensing and enterprise support, contact:
-- Email: info@nelsongrey.com
+- Email: support@nelsongrey.com
