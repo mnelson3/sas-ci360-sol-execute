@@ -2,6 +2,8 @@
 
 ## Python client for SAS Customer Intelligence 360 Marketing Execution APIs
 
+> **Status: canonical.** This is the actively maintained client for the Marketing Execution API.
+
 This repository provides Python interfaces for SAS Customer Intelligence 360 Marketing Execution APIs.
 
 > This is an independent client library and is not an official SAS product. "SAS" and "Customer Intelligence 360" are trademarks of SAS Institute Inc.; this project is not affiliated with or endorsed by SAS Institute.
