@@ -2,7 +2,7 @@
 
 ## Python client for SAS Customer Intelligence 360 Marketing Execution APIs
 
-> **Status: canonical.** This is the actively maintained client for the Marketing Execution API.
+> **Status: archived.** This repository is a retained historical/archived reference client for the Marketing Execution API and is no longer actively developed.
 
 This repository provides Python interfaces for SAS Customer Intelligence 360 Marketing Execution APIs.
 
@@ -30,8 +30,8 @@ The Execute module enables programmatic campaign execution, message sending, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnelson3/sas-ci360-sol-execute.git
-   cd sas-ci360-sol-execute
+   git clone https://github.com/mnelson3/sas-ci360-sol-execute-archived.git
+   cd sas-ci360-sol-execute-archived
    ```
 
 2. Install dependencies:
